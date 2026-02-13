@@ -3,7 +3,7 @@
 # this codedesert is written for fun 
 # do what ever you want to do ....
 # (c) 2006-2026 by braindead ges.m.b.e.
-# created by xir - www.anares.ai
+# created by xir - www.anares.ai - www.strg.at
 
  
 use strict;
