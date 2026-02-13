@@ -1,6 +1,14 @@
 # Malvin - IRC Bot powered by Ollama
 # written by xir (www.anares.ai // www.strg.at)
 
+This project was first developed in 2006. 
+It was a bot in Perl POE that could win a simple 
+question/answer game in an IRC chat. In addition, 
+it could be controlled via a second channel, 
+which made it seem surprisingly real as an AI.
+In 2026, I revised this bot based on the code 
+from back then and linked it to llama3.
+
 Malvin is a Perl IRC bot that uses a local [Ollama](https://ollama.com) LLM instance to generate responses. When someone mentions the bot's name in a channel, it builds a prompt from the recent chat context and streams a reply back to IRC.
 
 ## Features

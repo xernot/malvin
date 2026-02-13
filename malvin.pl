@@ -1,7 +1,9 @@
 #!/usr/bin/perl
 #
-# this codedesert is written for fun 
-# do what ever you want to do ....
+# this code is mainly written by claude opus 4.6
+# the project is a test for the agent system to see
+# code-quality in perl and python
+#
 # (c) 2006-2026 by braindead ges.m.b.e.
 # created by xir - www.anares.ai - www.strg.at
 
