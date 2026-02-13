@@ -11,6 +11,10 @@ from back then and linked it to llama3.
 
 Malvin is a Perl IRC bot that uses a local [Ollama](https://ollama.com) LLM instance to generate responses. When someone mentions the bot's name in a channel, it builds a prompt from the recent chat context and streams a reply back to IRC.
 
+you can run several different bots in your chat. just create a new config-file adjust the settings and run it
+
+./malvinpl YOURCONF.conf
+
 ## Features
 
 - Streaming responses -- sends sentences to IRC as they are generated
