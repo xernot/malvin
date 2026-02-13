@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# this code is mainly written by claude opus 4.6
+# original written in 2006 as a question/answer game for irc
 # the project is a test for the agent system to see
 # code-quality in perl and python
 #
