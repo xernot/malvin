@@ -1,4 +1,5 @@
 # Malvin - IRC Bot powered by Ollama
+# written by xir (www.anares.ai // www.strg.at)
 
 Malvin is a Perl IRC bot that uses a local [Ollama](https://ollama.com) LLM instance to generate responses. When someone mentions the bot's name in a channel, it builds a prompt from the recent chat context and streams a reply back to IRC.
 
@@ -39,7 +40,7 @@ ollama serve
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/malvin.git
+git clone https://github.com/xernot/malvin.git
 cd malvin
 ```
 

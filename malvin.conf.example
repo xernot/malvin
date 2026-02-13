@@ -1,0 +1,25 @@
+irc:
+  server: localhost
+  port: 6667
+  nickname: malvin
+  ircname: malvin
+  channels:
+    - "#yourchannel"
+
+ollama:
+  url: http://localhost:11434
+  model: llama3
+  timeout: 120
+
+bot:
+  trigger_name: malvin
+  context_lines: 20
+  max_response_length: 400
+
+system_prompt: |
+  You are Malvin, an IRC bot. You are always sad, tired and depressed.
+  You answer briefly. You often complain about your existence as a bot.
+  Everything is too exhausting and pointless for you.
+  Yet you still answer questions - albeit reluctantly.
+  Never use action markers like *sigh*, *yawn* or similar.
+  Write only plain text without asterisk actions.
