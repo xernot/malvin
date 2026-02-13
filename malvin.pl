@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 #
 # original written in 2006 as a question/answer game for irc
+# intensive usage of claudes opus 4.6
 # the project is a test for the agent system to see
 # code-quality in perl and python
 #
