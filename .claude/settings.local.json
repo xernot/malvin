@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(perl:*)",
+      "Bash(tee:*)",
+      "Bash(python3:*)",
+      "Bash(ss:*)",
+      "Bash(dpkg:*)"
+    ]
+  }
+}
